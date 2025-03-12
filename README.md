@@ -1,6 +1,6 @@
-# 📊 [Your Name] – Data Analyst | Data Scientist  
+# 📊 Data Analyst | Data Scientist  
 
-🔹 **Turning data into insights using Python, R, and SQL**  
+🔹 **Skilled at turning data assets into business insights using Python, R, and SQL**  
 🔹 **Passionate about statistical modeling, forecasting, and data-driven decision making**  
 🔹 **Actively seeking contract opportunities in data analytics and data science**  
 
