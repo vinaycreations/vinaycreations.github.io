@@ -1,8 +1,7 @@
 # 📊 Data Analyst | Data Scientist  
 
-🔹 **Skilled at turning data assets into business insights using Python, R, and SQL**  
-🔹 **Passionate about statistical modeling, forecasting, and data-driven decision making**  
-🔹 **Actively seeking contract opportunities in data analytics and data science**  
+🔹 **Highly skilled at analyzing data assets to optimize business insights and create data-driven solutions**  
+🔹 **Experience in data wrangling/cleaning, statistical modeling, predictive analytics, data visualization, machine learning & optimization, and more**    
 
 ---
 
