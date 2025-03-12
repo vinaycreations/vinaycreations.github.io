@@ -7,12 +7,14 @@
 
 
 ## Objective
-- The project’s focus is on determining the "quality" of the ratings given by the ABA to judicial nominees for the U.S. Court of Appeals.
-
-- The objective is to investigate whether there are any correlations between the ABA ratings and various demographic or professional factors of the nominees, such as age/sex/race demographics, location, year appointed, past work experience, political party, etc.
+Analyze potential correlations between ABA ratings and various demographic or professional factors of judicial nominees—including age, sex, race, geographic location, appointment year, prior work experience, and political affiliation. Additionally, develop a predictive model to assess these relationships and forecast future ABA ratings for judicial appointments.
 
 ## Methodology
-Describe how you approached the project, the methods you used, and any challenges faced.
+- **Random Forest:** An ensemble learning method that constructs multiple decision trees and combines their outputs to improve prediction accuracy and reduce overfitting. It is commonly used for classification and regression tasks.
+
+- **Ordinal Logistic Regression (OLR):** A statistical modeling technique designed for predicting an ordinal dependent variable, where the response categories have a meaningful order but unequal spacing. It extends logistic regression to handle ordered outcomes.
+
+- **K-Modes Clustering:** A clustering algorithm that extends K-Means for categorical data by using mode-based updates instead of mean-based updates. It is used to identify distinct groups within a dataset based on shared characteristics.
 
 ## Results
 Discuss the key insights or outcomes from the project and include any data visualizations or important findings.
