@@ -2,6 +2,7 @@
 
 ## Introduction
 Client: University of Georgia - Political Science Department
+
 Context: When a vacancy arises in the Federal Judiciary, the President of the United States appoints a candidate to fill the position. The American Bar Association (ABA) assigns one of three ratings to the nominee: Not Qualified, Qualified, or Well Qualified.
 
 
