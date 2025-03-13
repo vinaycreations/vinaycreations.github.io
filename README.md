@@ -14,9 +14,9 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **Undergraduate Capstone Project(GitHub Repo Link)** – *Brief 1-2 sentence description of what it does.*  
-🔹 **Trading Risk Analyzer Project(GitHub Repo Link)** – *Mention key tools used & insights discovered.*  
-🔹 **SQL Project(GitHub Repo Link)** – *(Coming soon! Stay tuned for updates!)*  
+🔹 **[Undergraduate Capstone Project](project1.md)**  
+🔹 **[Trading Risk Analysis Project](project2.md)**  
+🔹 **SQL Project** – *(Coming soon! Stay tuned for updates!)*  
 
 ---
 
