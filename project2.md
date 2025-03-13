@@ -1,4 +1,4 @@
-# Trading Risk Analyzer Project
+# Trading Risk Analysis Project
 
 ## 📚Introduction
 In recent years, retail short-term trading has surged in popularity, attracting many new traders eager to capitalize on market opportunities. However, a significant number enter the market with little to no understanding of risk management, proper position sizing, or trading psychology. Many overleverage their accounts, exposing themselves to excessive risk and often depleting their funds before they have a chance to develop the fundamental skills needed for long-term success.
