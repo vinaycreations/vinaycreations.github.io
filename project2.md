@@ -45,12 +45,37 @@ starting_capital = 10000  #Starting account balance of $10,000
 risk_per_trade = 100  #Risk $100 per trade
 win_probability = 0.40  #40% win rate
 reward_to_risk_ratio = 2  #2:1 R/R ratio
-num_trades = 100 #Number of Trades to Simulate
+num_trades = 100 #Number of trades to simulate
 ```
 
-**Step 2: Run Simulation and Interpret Results**
+**Step 2: Run Simulation**
 
 <img src="assets/Picture8.PNG" alt="Figure 1" width="500">
+
+```text
+Percentage Ending in Drawdown: 9.97 %
+Percentage Ending in Profit: 90.03 %
+Largest Equity Drawdown: 41.58416 %
+Largest Equity Gain: 71.5 %
+95% Confidence Interval of Ending Equity: 9100 14800 
+Max Consecutive Wins: 10 
+Max Consecutive Losses: 14
+```
+
+**Step 3: Interpret Results**
+- **Percentage Ending in Drawdown:** 9.97% of the simulations resulted in a loss. This reflects the inherent risk in trading, but the relatively low percentage suggests that, with proper risk management, the trader is likely to avoid catastrophic losses over time.
+
+- **Percentage Ending in Profit:** 90.03% of the simulations resulted in a gain. This indicates that the trader's strategy has a positive expectancy and a higher chance of yielding gains than losses.
+
+- **Largest Equity Drawdown:** The largest recorded drawdown of 41.58% indicates the maximum loss experienced during the worst-performing simulation. While a significant number, it is essential for traders to be aware of such potential risks so they can adequately adjust position sizing and risk management techniques to mitigate substantial losses.
+
+- **Largest Equity Gain:** The largest gain of 81% showcases the best-case scenario for the trader, reflecting the potential for a strong return when trade conditions are favorable. This result emphasizes the upside potential of the strategy when executed correctly under ideal market conditions.
+
+- **95% Confidence Interval of Ending Equity:** The range of $9,100 to $14,800 represents the expected bounds within which the trader's account equity is likely to end up, with 95% certainty, after completing the set number of trades. This interval helps the trader understand the variability of their strategy in the long run.
+
+- **Max Consecutive Wins:** The maximum consecutive wins (10) show the trader’s potential for streaks of success. It emphasizes the importance of capitalizing on winning trends while managing risk to maximize the potential of each favorable outcome.
+
+- **Max Consecutive Losses:** The maximum consecutive losses (14) highlight the worst-case scenario where the trader experiences several losses in a row. This reiterates the need for sound risk management to ensure that a trader can survive a losing streak and avoid devastating losses that could deplete their account balance.
 
 ## 📝Conclusions
 
