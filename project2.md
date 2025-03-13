@@ -77,6 +77,13 @@ Max Consecutive Losses: 14
 
 - **Max Consecutive Losses:** The maximum consecutive losses (14) highlight the worst-case scenario where the trader experiences several losses in a row. This reiterates the need for sound risk management to ensure that a trader can survive a losing streak and avoid devastating losses that could deplete their account balance.
 
-## 📝Conclusions
+## 📝Conclusions and Future Improvements
+- **Key Findings:** This tool offers traders a comprehensive way to evaluate their long-term risk exposure by simulating thousands of potential outcomes based on their past performance. By understanding the distribution of their account equity, traders can make informed decisions about position sizing and risk tolerance.
 
-## 🚀Future Improvements
+- **Implications for Traders:** For newer traders, this tool provides a much-needed framework to identify how overleveraging can impact long-term profitability. For experienced traders, it offers insights into fine-tuning risk management strategies and optimizing position sizes based on historical performance.
+
+- **Limitations:** The model assumes constant risk/reward ratios and win percentages over time, which may not reflect the dynamic nature of the market. It also relies on historical data, which does not account for unforeseen market events or changes in trading strategies.
+
+- **Future Enhancements:** Future versions could include features like more granular risk metrics, customizable risk/reward scenarios, and the integration of market conditions or trader psychology. Additionally, linking directly to brokerage accounts for real-time performance tracking could offer greater insights.
+
+- **Closing Statement:** This tool aims to bridge the gap between theory and practice by providing a clear, data-driven approach to risk management. With continued refinement, it has the potential to help traders of all levels make more informed decisions and improve their overall trading performance.
