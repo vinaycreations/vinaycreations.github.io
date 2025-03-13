@@ -38,7 +38,18 @@ To sustain a trading career, it is essential to not only assess risk on individu
 - **Maximum Consecutive Wins:** The highest number of consecutive wins observed in the simulations, providing insight into how often the trader can expect streaks of positive outcomes.
 - **Maximum Consecutive Losses:** The highest number of consecutive losses observed in the simulations, highlighting the potential frequency of losing streaks and helping traders prepare for periods of drawdown.
 
-## 📊Results
+## 📊Example: Implementation and Interpretation
+**Step 1: Define Inputs**
+```r
+starting_capital = 10000  #Starting account balance of $10,000
+risk_per_trade = 100  #Risk $100 per trade
+win_probability = 0.40  #40% win rate
+reward_to_risk_ratio = 2  #2:1 R/R ratio
+num_trades = 100 #Number of Trades to Simulate
+```
+
+**Step 2: Run Simulation and Interpret Results**
+
 
 ## 📝Conclusions
 
