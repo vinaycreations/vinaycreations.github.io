@@ -1,4 +1,4 @@
-# 📊 Data Analyst | Data Scientist  
+# 📊 Data Analyst | Data Scientist 📈  
 
 🔹 **Highly skilled at analyzing data assets to create business insights and optimize data-driven solutions.**
 
