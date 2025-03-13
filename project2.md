@@ -49,7 +49,7 @@ num_trades = 100 #Number of Trades to Simulate
 ```
 
 **Step 2: Run Simulation and Interpret Results**
-
+<img src="assets/Picture8.png" alt="Figure 2" width="500">
 
 ## 📝Conclusions
 
