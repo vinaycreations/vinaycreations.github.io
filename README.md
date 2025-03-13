@@ -10,7 +10,7 @@
 
 🎓 **Education**: B.S. in Statistics, The University of Georgia  
 
-🛠 **Key Skills**: Python | R | SQL | Excel | Tableau | Power BI | Gen AI Tools
+🛠 **Key Skills**: Python, R, SQL, Excel, Tableau, Power BI, Gen AI Tools
 
 ---
 
