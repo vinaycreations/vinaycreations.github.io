@@ -41,7 +41,22 @@ Analyze potential correlations between ABA ratings and various demographic or pr
 
 <img src="assets/Picture3.png" alt="Figure 3" width="500">
 
+---
+
+### Model Results Compared
+<img src="assets/Picture6.png" alt="Figure 6" width="500">
+
 ## Conclusions
+- **Key Findings:** Through the Random Forest and Ordinal Logistic Regression (OLR) models, it was determined that certain variables—particularly age and prior experience as a District Court Judge—are strong predictors of receiving a “Well Qualified” ABA rating for judicial nominees. These findings suggest that experience within the judicial system plays a significant role in shaping professional qualifications, which is likely to be a key factor in the selection process.
+
+- **Model Performance:** Both models achieved an accuracy of 72%. The Random Forest model demonstrated effectiveness in classifying nominations and provided valuable insights into the relationships between demographic and professional factors. The OLR model, enhanced by LASSO regression for feature selection, refined the predictors and revealed clear associations with the judicial rating.
+  
+- **Practical Implications:** The results can assist policymakers, legal advisors, and political figures by offering data-driven insights into the characteristics that may influence a judicial nominee's evaluation. The predictive capabilities of these models can be utilized to identify patterns in future judicial nominations and inform decision-making processes.
+
 
 ## Future Improvements
-Mention any ideas or plans for further improving the project or areas that could be expanded upon.
+- **Expansion of Sample Size:** Increasing the sample size would be beneficial for enhancing the robustness and generalizability of the analysis, allowing for more reliable conclusions.
+
+- **Incorporating More Recent Data:** The current dataset spans from 1977 to 2008. Including nominations from 2009 to the present (2023) would allow for a more up-to-date analysis and enable comparisons between historical and current trends using the same methodologies.
+
+- **Broader Scope of Data:** The analysis is currently limited to U.S. Court of Appeals nominations. Expanding the dataset to include nominations for all federal judgeships would provide a more comprehensive view and allow for a broader application of the same analytical techniques.
