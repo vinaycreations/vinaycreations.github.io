@@ -17,7 +17,22 @@ Analyze potential correlations between ABA ratings and various demographic or pr
 - **K-Modes Clustering:** A clustering algorithm that extends K-Means for categorical data by using mode-based updates instead of mean-based updates. It is used to identify distinct groups within a dataset based on shared characteristics.
 
 ## Results
-Discuss the key insights or outcomes from the project and include any data visualizations or important findings.
+### **Random Forest**
+- The figure below illustrates a single decision tree.
+- With each additional split, the decision tree becomes more specific, progressively improving the classification accuracy by isolating data points based on relevant feature thresholds.
+- In this case study, the Random Forest Algorithm used 50,000 decision trees to train the model and make predictions.
+
+<img src="assets/Picture1.png" alt="Figure 1" width="600">
+
+- The confusion matrix below compares the predicted results from the Random Forest model to the actual data.
+- The model achieved an overall accuracy of 72%, though it shows a bias towards predicting 'Well Qualified'.
+- Since there were only three 'Not Qualified' ratings in the dataset, none of them appeared in the randomized test set, which influenced the results.
+
+<img src="assets/Picture2.png" alt="Figure 1" width="600">
+
+**Ordinal Logistic Regression (OLR):**
+
+**K-Modes Clustering:**
 
 ## Future Improvements
 Mention any ideas or plans for further improving the project or areas that could be expanded upon.
