@@ -7,7 +7,7 @@
 
 
 ## 🎯Objective
-Analyze potential correlations between ABA ratings and various demographic or professional factors of judicial nominees—including age, sex, race, geographic location, appointment year, prior work experience, and political affiliation. Additionally, develop a predictive model to assess these relationships and forecast future ABA ratings for judicial appointments.
+Investigate whether correlations exist between **ABA ratings** and various demographic or professional factors of judicial nominees, such as age, gender, race, past work experience, and over 100 other predictor variables. Utilize statistical and machine learning models to identify the most influential variables in determining ABA ratings, providing insights into the factors that historically contributed to a "Well Qualified" rating and their potential implications for future nominations.
 
 ## 🧪Methodology
 - **Random Forest:** An ensemble learning method that constructs multiple decision trees and combines their outputs to improve prediction accuracy and reduce overfitting. It is commonly used for classification and regression tasks.
