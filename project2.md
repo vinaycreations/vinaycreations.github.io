@@ -8,12 +8,12 @@ To sustain a trading career, it is essential to not only assess risk on individu
 ## 🎯Objective
 - Develop a simulation-based tool that allows traders to assess their **long-term risk exposure** based on their past performance metrics.
 
-- Traders input key statistics such as win percentage, average win/loss amount, and trade frequency, which the model uses to simulate thousands of potential trading scenarios.
-
-- The tool provides visual outputs of possible account equity trajectories after 'n' trades, along with key risk metrics like:
-  - Probability of ending in profit/loss
-  - Confidence intervals for ending balances
-  - Distribution of potential outcomes
+- The tool should output key risk metrics like:
+  - Distribution of outcomes, highlighting the range of possible results
+  - Probability of account ending in profit or loss
+  - Confidence intervals for potential ending balances
+  - Maximum potential equity drawdown and gain
+  - Maximum potential consecutive wins and losses
 
 - By shifting the focus from individual trade results to long-term risk assessment, traders can make informed decisions about position sizing and risk tolerance. This helps traders avoid unexpected large drawdowns, ensuring they stay within their risk parameters and maintain a professional, process-driven mindset.
 
