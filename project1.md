@@ -1,21 +1,21 @@
 # Undergraduate Capstone Project: Building Models to Predict Ratings of Federal Judicial Nominees
 
-## Introduction
+## 📚Introduction
 - **Client:** University of Georgia - Political Science Department
 
 - **Context:** When a vacancy arises in the Federal Judiciary, the President of the United States appoints a candidate to fill the position. The American Bar Association (ABA) assigns one of three ratings to the nominee: Not Qualified, Qualified, or Well Qualified.
 
 
-## Objective
+## 🎯Objective
 Analyze potential correlations between ABA ratings and various demographic or professional factors of judicial nominees—including age, sex, race, geographic location, appointment year, prior work experience, and political affiliation. Additionally, develop a predictive model to assess these relationships and forecast future ABA ratings for judicial appointments.
 
-## Methodology
+## 🧪Methodology
 - **Random Forest:** An ensemble learning method that constructs multiple decision trees and combines their outputs to improve prediction accuracy and reduce overfitting. It is commonly used for classification and regression tasks.
 
 - **Ordinal Logistic Regression (OLR):** A statistical modeling technique designed for predicting an ordinal dependent variable, where the response categories have a meaningful order but unequal spacing. It extends logistic regression to handle ordered outcomes.
 
 
-## Results
+## 📊Results
 ### **Random Forest:**
 - The figure below illustrates a single decision tree.
 - With each additional split, the decision tree becomes more specific, progressively improving the classification accuracy by isolating data points based on relevant feature thresholds.
@@ -46,7 +46,7 @@ Analyze potential correlations between ABA ratings and various demographic or pr
 ### Model Results Compared
 <img src="assets/Picture6.png" alt="Figure 6" width="500">
 
-## Conclusions
+## 📝Conclusions
 - **Key Findings:** Through the Random Forest and Ordinal Logistic Regression (OLR) models, it was determined that certain variables—particularly age and prior experience as a District Court Judge—are strong predictors of receiving a “Well Qualified” ABA rating for judicial nominees. These findings suggest that experience within the judicial system plays a significant role in shaping professional qualifications, which is likely to be a key factor in the selection process.
 
 - **Model Performance:** Both models achieved an accuracy of 72%. The Random Forest model demonstrated effectiveness in classifying nominations and provided valuable insights into the relationships between demographic and professional factors. The OLR model, enhanced by LASSO regression for feature selection, refined the predictors and revealed clear associations with the judicial rating.
@@ -54,7 +54,7 @@ Analyze potential correlations between ABA ratings and various demographic or pr
 - **Practical Implications:** The results can assist policymakers, legal advisors, and political figures by offering data-driven insights into the characteristics that may influence a judicial nominee's evaluation. The predictive capabilities of these models can be utilized to identify patterns in future judicial nominations and inform decision-making processes.
 
 
-## Future Improvements
+## 🚀Future Improvements
 - **Expansion of Sample Size:** Increasing the sample size would be beneficial for enhancing the robustness and generalizability of the analysis, allowing for more reliable conclusions.
 
 - **Incorporating More Recent Data:** The current dataset spans from 1977 to 2008. Including nominations from 2009 to the present (2023) would allow for a more up-to-date analysis and enable comparisons between historical and current trends using the same methodologies.
