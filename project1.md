@@ -44,6 +44,10 @@ Analyze potential correlations between ABA ratings and various demographic or pr
 ---
 
 ### Model Results Compared
+- **Random Forest (RF) vs. Ordinal Logistic Regression (OLR):** The RF model and OLR model performed similarly in terms of sensitivity and recall, with OLR slightly outperforming RF in the "Well Qualified" category.
+- **Precision and F1 Scores:** The OLR model had higher precision and F1 scores than RF for predicting "Well Qualified," suggesting it was better at correctly identifying this category while balancing precision and recall.
+- **Trade-offs in Model Performance:** The RF model had higher specificity for "Qualified," meaning it was better at identifying non-qualified cases correctly, while the OLR model showed a more balanced performance across both categories.
+
 <img src="assets/Picture6.png" alt="Figure 6" width="500">
 
 ## 📝Conclusions
