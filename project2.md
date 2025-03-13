@@ -56,20 +56,20 @@ num_trades = 100 #Number of trades to simulate
 Percentage Ending in Drawdown: 9.97 %
 Percentage Ending in Profit: 90.03 %
 Largest Equity Drawdown: 41.58416 %
-Largest Equity Gain: 71.5 %
+Largest Equity Gain: 76 %
 95% Confidence Interval of Ending Equity: 9100 14800 
 Max Consecutive Wins: 10 
 Max Consecutive Losses: 14
 ```
 
 **Step 3: Interpret Results**
-- **Percentage Ending in Drawdown:** 9.97% of the simulations resulted in a loss. This reflects the inherent risk in trading, but the relatively low percentage suggests that, with proper risk management, the trader is likely to avoid catastrophic losses over time.
+- **Percentage Ending in Drawdown:** 9.97% of the simulations resulted in a loss. This reflects the inherent risk in trading, but the relatively low percentage suggests that, with proper risk management, this trader is likely to avoid losses over time.
 
-- **Percentage Ending in Profit:** 90.03% of the simulations resulted in a gain. This indicates that the trader's strategy has a positive expectancy and a higher chance of yielding gains than losses.
+- **Percentage Ending in Profit:** 90.03% of the simulations resulted in a gain. This indicates that this trader's strategy has a positive expectancy and a higher chance of yielding gains than losses.
 
-- **Largest Equity Drawdown:** The largest recorded drawdown of 41.58% indicates the maximum loss experienced during the worst-performing simulation. While a significant number, it is essential for traders to be aware of such potential risks so they can adequately adjust position sizing and risk management techniques to mitigate substantial losses.
+- **Largest Equity Drawdown:** The largest recorded drawdown of 41.58% indicates the maximum loss experienced during the worst-performing simulation. It is essential for traders to be aware of such potential risks so they can dynamically adjust position sizing and risk management techniques to mitigate substantial drawdown periods.
 
-- **Largest Equity Gain:** The largest gain of 81% showcases the best-case scenario for the trader, reflecting the potential for a strong return when trade conditions are favorable. This result emphasizes the upside potential of the strategy when executed correctly under ideal market conditions.
+- **Largest Equity Gain:** The largest gain of 76% showcases the best-case scenario for the trader, reflecting the potential for a strong return when trade conditions are favorable. This result emphasizes the upside potential of the strategy when executed correctly under ideal market conditions.
 
 - **95% Confidence Interval of Ending Equity:** The range of $9,100 to $14,800 represents the expected bounds within which the trader's account equity is likely to end up, with 95% certainty, after completing the set number of trades. This interval helps the trader understand the variability of their strategy in the long run.
 
