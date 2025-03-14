@@ -20,12 +20,10 @@
 
 🔹 **[Trading Risk Analysis Project](project2.md)** 
 
-🔹 **SQL Project** – *(Coming soon! Stay tuned for updates!)*  
-
 ---
 
 ## 📬 Connect With Me  
 
 📧 **Email:** [vinaykotwani6@gmail.com](mailto:vinaykotwani6@gmail.com)  
 
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
+💼 **LinkedIn:** [Vinay Kotwani](www.linkedin.com/in/vinay-kotwani-39173222a)
