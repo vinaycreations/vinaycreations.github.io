@@ -3,8 +3,3 @@ title: Vinay Kotwani
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-slate
-defaults:
-  - scope:
-      path: ""
-    values:
-      sitemap: false
