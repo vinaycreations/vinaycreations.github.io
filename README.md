@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Undergraduate Capstone Project](project1.md)**  
+🔹 **[Undergrad Capstone Project](project1.md)**  
 
 🔹 **[Trading Risk Analysis Project](project2.md)** 
 
