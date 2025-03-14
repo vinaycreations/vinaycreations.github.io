@@ -1,6 +1,6 @@
 # 📊 Data Analyst | Data Scientist 📈  
 
-🔹 **Highly skilled at analyzing data assets to create business insights and optimize data-driven solutions.**
+🔹 **Highly skilled at analyzing data assets to develop business insights and optimize data-driven solutions.**
 
 🔹 **Experienced in data wrangling/cleaning, statistical modeling, predictive analytics, data visualization, machine learning, and more.**    
 
