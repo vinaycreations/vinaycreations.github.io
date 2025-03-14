@@ -26,4 +26,4 @@
 
 📧 **Email:** [vinaykotwani6@gmail.com](mailto:vinaykotwani6@gmail.com)  
 
-💼 **LinkedIn:** [Vinay Kotwani](www.linkedin.com/in/vinay-kotwani-39173222a)
+💼 **LinkedIn:** [Vinay Kotwani](https://www.linkedin.com/in/vinay-kotwani-39173222a)
