@@ -28,16 +28,6 @@ To sustain a trading career, it is essential to not only assess risk on individu
 - **Stochastic Modeling** is employed, where trade outcomes (win or loss) are randomly generated based on known probabilities (win probability), and account equity is adjusted based on these outcomes and the defined reward-to-risk ratio.
 - The simulation considers **Expected Values** principles by using the win probability and the reward-to-risk ratio to model potential outcomes over a large number of trades.
 
-**Outputs**:
-- **Distribution of Simulated Outcomes:** A histogram displaying the distribution of all simulation results, helping traders visualize the spread of potential account equity outcomes.
-- **Probability of Positive Equity:** The percentage of simulations that end with a final equity greater than the starting capital, representing the likelihood of achieving a profitable outcome.
-- **Probability of Negative Equity:** The percentage of simulations that result in a final equity less than or equal to the starting capital, indicating the likelihood of a loss.
-- **Largest Drawdown:** The maximum observed decline in equity during the simulation period, helping traders understand the worst-case scenario for their strategy.
-- **Largest Gain:** The maximum observed gain in equity during the simulation, showing the best potential outcome in the simulations.
-- **95% Confidence Interval:** The lower and upper bounds of final equity after all simulations, representing the range in which the trader can expect their final equity to fall with 95% confidence.
-- **Maximum Consecutive Wins:** The highest number of consecutive wins observed in the simulations, providing insight into how often the trader can expect streaks of positive outcomes.
-- **Maximum Consecutive Losses:** The highest number of consecutive losses observed in the simulations, highlighting the potential frequency of losing streaks and helping traders prepare for periods of drawdown.
-
 ## 📊Example: Implementation and Interpretation
 **Step 1: Define Inputs**
 ```r
@@ -82,8 +72,9 @@ Max Consecutive Losses: 14
 
 - **Implications for Traders:** For newer traders, this tool provides a much-needed framework to identify how overleveraging can impact long-term profitability. For experienced traders, it offers insights into fine-tuning risk management strategies and optimizing position sizes based on historical performance.
 
-- **Limitations:** The model assumes constant risk/reward ratios and win percentages over time, which may not reflect the dynamic nature of the market. It also relies on historical data, which does not account for unforeseen market events or changes in trading strategies.
+- **Limitations:** The model assumes constant risk/reward ratios and win percentages over time, which may not reflect the dynamic nature of the market. However, as the sample size of a trader’s data collection increases, the law of large numbers ensures that the estimated averages for win rate and risk/reward ratio become more statistically reliable. This reduces variance in the model’s inputs, leading to more accurate simulations that better reflect a trader’s true long-term performance.
 
-- **Future Enhancements:** Future versions could include features like more granular risk metrics, customizable risk/reward scenarios, and the integration of market conditions or trader psychology. Additionally, linking directly to brokerage accounts for real-time performance tracking could offer greater insights.
+- **Future Enhancements:** Future versions could include features such as more advanced risk metrics, customizable risk/reward scenarios, and the integration of 
+ external market conditions. Additionally, linking directly to brokerage accounts for real-time performance tracking could further streamline the user experience.
 
 - **Closing Statement:** This tool aims to bridge the gap between theory and practice by providing a clear, data-driven approach to risk management. With continued refinement, it has the potential to help traders of all levels make more informed decisions and improve their overall trading performance.
