@@ -25,7 +25,7 @@ To sustain a trading career, it is essential to not only assess risk on individu
  
 **Model/Simulation Setup:**
 - The model is based on a **Monte Carlo Simulation** approach, where thousands of trade scenarios are simulated using random sampling to estimate the distribution of potential outcomes for the trader's account equity.
-- **Stochastic Modeling** is employed, where trade outcomes (win or loss) are randomly generated based on known probabilities (win probability), and account equity is adjusted based on these outcomes and the defined reward-to-risk ratio.
+- **Stochastic Modeling** is used, where trade outcomes (win or loss) are randomly generated based on known probabilities (win probability), and account equity is adjusted based on these outcomes and the defined reward-to-risk ratio.
 - The simulation considers **Expected Values** principles by using the win probability and the reward-to-risk ratio to model potential outcomes over a large number of trades.
 
 ## 📊Example: Implementation and Interpretation
