@@ -2,7 +2,7 @@
 
 🔹 **Skilled in turning complex data into actionable insights that drive smarter business decisions.**
 
-🔹 **Experienced in data wrangling, statistical modeling, predictive analytics, data visualization, machine learning, A/B testing, time series analysis, data engineering workflows, business intelligence reporting, and more.**    
+🔹 **Experienced in data wrangling, statistical modeling, predictive analytics, data visualization, machine learning, A/B testing, time series analysis, data engineering workflows, and business intelligence reporting.**    
 
 
 
