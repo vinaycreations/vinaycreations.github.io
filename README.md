@@ -12,7 +12,7 @@
 
 🛠 **Key Skills**: Python, R, SQL, Excel, Tableau, Power BI, Gen AI Tools
 
----
+
 
 ## 🚀 Featured Projects  
 
@@ -20,7 +20,7 @@
 
 🔹 **[Trading Risk Analysis Project](project2.md)** 
 
----
+
 
 ## 📬 Connect With Me  
 
