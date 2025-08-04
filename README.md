@@ -9,10 +9,8 @@
 ## 📌 About Me  
 
 🎓 **Education**: 
-
-  -M.S. in Analytics, Georgia Institute of Technology (in progress)
-  
-  -B.S. in Statistics, The University of Georgia
+  - M.S. in Analytics, Georgia Institute of Technology (in progress)
+  - B.S. in Statistics, The University of Georgia
 
 🛠 **Key Skills**: Python, R, SQL, Excel, Tableau, Power BI, Gen AI Tools
 
