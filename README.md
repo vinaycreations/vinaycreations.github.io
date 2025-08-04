@@ -10,13 +10,13 @@
 
 🎓 **Education**: 
   - M.S. in Analytics, Georgia Institute of Technology (in progress)
-  - B.S. in Statistics, The University of Georgia
+  - B.S. in Statistics, The University of Georgia (GPA: 3.7/4.0)
 
 🛠 **Key Skills**: Python, R, SQL, Excel, Tableau, Power BI, Gen AI Tools
 
 
 
-## 🚀 Featured Projects  
+## 🚀 Academic & Personal Projects  
 
 🔹 **[Undergrad Capstone Project](project1.md)**  
 
